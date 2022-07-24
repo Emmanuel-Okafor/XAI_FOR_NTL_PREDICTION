@@ -2,5 +2,5 @@
 Building  explainable  deep learning  and  ensemble  learning  models  for  predicting NTL
 
 The project was developed  by;
-Emmanuel Okafor
+Emmanuel Okafor &
 Obumneme Nwafor
